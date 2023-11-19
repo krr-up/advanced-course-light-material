@@ -28,6 +28,10 @@ Material on our advanced course for engineers
 - 12:00-13:00 Lunch
 - 13:00-16:00 Project implementation
 
+# Slides #
+
+- [v1.20.0](https://github.com/potassco-asp-course/course-light/releases/download/v1.20.0/main.pdf)
+
 # Resources #
 
 - [clingo](https://potassco.org/clingo/)
