@@ -1,4 +1,4 @@
-# Advanced light course material
+# Course material: Advanced Answer Set Solving for Engineers
 
 Material on our advanced course for engineers
 
