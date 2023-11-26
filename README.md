@@ -30,7 +30,7 @@ Material on our advanced course for engineers
 
 # Slides #
 
-- [v1.20.0](https://github.com/potassco-asp-course/course-light/releases/download/v1.20.0/main.pdf)
+- [v1.20.0](https://github.com/potassco-asp-course/course-light/releases/download/v1.20.1/main.pdf)
 
 # Literature #
 
