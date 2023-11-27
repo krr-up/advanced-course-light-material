@@ -32,6 +32,31 @@ Material on our advanced course for engineers
 
 - [v1.20.2](https://github.com/potassco-asp-course/course-light/releases/download/v1.20.2/main.pdf)
 
+
+# Projects
+
+### ASP Systems and Heuristics
+
+* scheduling
+* systems
+
+### Meta Programming
+
+* meta-programming-exercises (Monday)
+* meta-programming
+
+### Multi-shot solving
+
+* aspif-pretty-printer (Tuesday)
+* interactive-clingo (Tuesday)
+* multi-shot-solving
+
+### Theory solving
+
+* interactive-solving (Wednesday)
+* theory-solving
+* theory-solving-evaluation
+
 # Literature #
 
 
