@@ -75,3 +75,4 @@ Material on our advanced course for engineers
 - [projects repository (directory advanced)](https://github.com/potassco-asp-course/notebooks/tree/master)
 - [projects binder (directory advanced)](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD)
 - [externals and assumptions example](https://www.cs.uni-potsdam.de/~davila/externals-assumptions.py)
+- [commands for interactive-clingo](https://www.cs.uni-potsdam.de/~davila/commands.txt)
