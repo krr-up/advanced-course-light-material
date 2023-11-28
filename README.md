@@ -70,6 +70,7 @@ Material on our advanced course for engineers
 
 - [clingo](https://potassco.org/clingo/)
 - [clingo examples](https://github.com/potassco/clingo/tree/master/examples/clingo)
+- [clingo Python API](https://potassco.org/clingo/python-api/5.6/clingo)
 - [meta examples](https://github.com/potassco/clingo/tree/master/examples/reify)
 - [projects repository (directory advanced)](https://github.com/potassco-asp-course/notebooks/tree/master)
 - [projects binder (directory advanced)](https://mybinder.org/v2/gh/potassco-asp-course/notebooks/HEAD)
