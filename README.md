@@ -53,7 +53,7 @@ Material on our advanced course for engineers
 
 ### Theory solving
 
-* interactive-solving (Wednesday)
+* solving-agent (Wednesday)
 * theory-solving
 * theory-solving-evaluation
 
